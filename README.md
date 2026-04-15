@@ -1,9 +1,9 @@
 🚀 RAG App (Retrieval-Augmented Generation)
 
-"Python" (https://img.shields.io/badge/Python-3.10+-blue.svg)
-"Streamlit" (https://img.shields.io/badge/Frontend-Streamlit-red)
-"Qdrant" (https://img.shields.io/badge/VectorDB-Qdrant-green)
-"LLM" (https://img.shields.io/badge/LLM-OpenAI%2FGroq-purple)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red)
+![Qdrant](https://img.shields.io/badge/VectorDB-Qdrant-green)
+![LLM](https://img.shields.io/badge/LLM-OpenAI%2FGroq-purple)
 
 ---
 
