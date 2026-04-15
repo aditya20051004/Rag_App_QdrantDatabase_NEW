@@ -18,6 +18,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline that all
 - Generate context-aware responses using LLM 🤖
 
 ---
+![RAG](https://github.com/aditya20051004/Rag_App_QdrantDatabase_NEW/assets/RAG.jpeg)
 
 ⚙️ Tech Stack
 
